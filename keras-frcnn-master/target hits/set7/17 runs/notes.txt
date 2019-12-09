@@ -1,0 +1,62 @@
+train and test with image 1-10
+17 epochs
+
+python train_frcnn.py -o simple --config_filename config_hit.pickle --input_weight_path model_frcnn_hit.hdf5 --output_weight_path model_frcnn_hit.hdf5 --num_epochs 20 --path annotate_hits.txt
+
+Epoch 13/20
+Average number of overlapping bounding boxes from RPN = 2.198 for 1000 previous iterations
+ 857/1000 [========================>.....] - ETA: 651s - rpn_cls: 0.0012 - rpn_regr: 8.6863e-05 - detector_cls: 1.1412e-05 - detector_regr: 1.9906e-04Average number of overlapping bounding b
+oxes from RPN = 2.37 for 1000 previous iterations
+1000/1000 [==============================] - 4554s - rpn_cls: 0.0010 - rpn_regr: 1.0883e-04 - detector_cls: 1.2149e-05 - detector_regr: 2.7928e-04
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 2.379605826906598
+Classifier accuracy for bounding boxes from RPN: 1.0
+Loss RPN classifier: 0.0010168521301511645
+Loss RPN regression: 0.00010883345917164178
+Loss Detector classifier: 1.2148836033048838e-05
+Loss Detector regression: 0.0002792841690187573
+Elapsed time: 4555.220543622971
+Total loss decreased from 0.007747192916219804 to 0.0014171185943746122, saving weights
+Epoch 14/20
+ 714/1000 [====================>.........] - ETA: 1302s - rpn_cls: 0.0927 - rpn_regr: 6.1405e-04 - detector_cls: 0.0020 - detector_regr: 0.0022Average number of overlapping bounding boxes fr
+om RPN = 2.223 for 1000 previous iterations
+1000/1000 [==============================] - 4557s - rpn_cls: 0.1034 - rpn_regr: 5.2670e-04 - detector_cls: 0.0019 - detector_regr: 0.0019
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 2.139794168096055
+Classifier accuracy for bounding boxes from RPN: 0.9995
+Loss RPN classifier: 0.10335151922481828
+Loss RPN regression: 0.0005267028333397974
+Loss Detector classifier: 0.0018605961500623351
+Loss Detector regression: 0.0018861371949197333
+Elapsed time: 4557.921698331833
+Epoch 15/20
+ 572/1000 [================>.............] - ETA: 1949s - rpn_cls: 0.1421 - rpn_regr: 2.5081e-04 - detector_cls: 0.0011 - detector_regr: 8.9355e-04Average number of overlapping bounding boxe
+s from RPN = 1.8 for 1000 previous iterations
+1000/1000 [==============================] - 4629s - rpn_cls: 0.1877 - rpn_regr: 2.8210e-04 - detector_cls: 0.0019 - detector_regr: 0.0016
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 1.794344473007712
+Classifier accuracy for bounding boxes from RPN: 0.9994375
+Loss RPN classifier: 0.18773576330616265
+Loss RPN regression: 0.00028209724188333674
+Loss Detector classifier: 0.0018823177446522408
+Loss Detector regression: 0.0015954972781936148
+Elapsed time: 4629.792809009552
+Epoch 16/20
+ 429/1000 [===========>..................] - ETA: 2604s - rpn_cls: 0.2500 - rpn_regr: 1.8337e-04 - detector_cls: 3.6530e-05 - detector_regr: 2.5471e-04Average number of overlapping bounding
+boxes from RPN = 2.119 for 1000 previous iterations
+1000/1000 [==============================] - 4562s - rpn_cls: 0.2507 - rpn_regr: 1.3118e-04 - detector_cls: 2.4568e-05 - detector_regr: 1.3002e-04
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 2.2485004284490144
+Classifier accuracy for bounding boxes from RPN: 1.0
+Loss RPN classifier: 0.25073057058508086
+Loss RPN regression: 0.00013117536666630336
+Loss Detector classifier: 2.456756129950577e-05
+Loss Detector regression: 0.00013001609232797095
+Elapsed time: 4562.517961025238
+Epoch 17/20
+ 286/1000 [=======>......................] - ETA: 3237s - rpn_cls: 0.2446 - rpn_regr: 8.0700e-06 - detector_cls: 6.6725e-06 - detector_regr: 1.1612e-05Average number of overlapping bounding
+boxes from RPN = 2.174 for 1000 previous iterations
+1000/1000 [==============================] - 4541s - rpn_cls: 0.2486 - rpn_regr: 2.6034e-04 - detector_cls: 1.5758e-05 - detector_regr: 3.9502e-04
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 2.1166380789022297
+Classifier accuracy for bounding boxes from RPN: 1.0
+Loss RPN classifier: 0.24856745731396426
+Loss RPN regression: 0.0002603430830671627
+Loss Detector classifier: 1.5757539703201928e-05
+Loss Detector regression: 0.0003950183995902585
+Elapsed time: 4541.546761751175

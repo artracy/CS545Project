@@ -18,7 +18,7 @@ def get_data(input_path):
 		for line in f:
 			line_split = line.strip().split(',')
 			(filename,x1,y1,x2,y2,class_name) = line_split
-
+                        
 			if class_name not in classes_count:
 				classes_count[class_name] = 1
 			else:
@@ -29,10 +29,11 @@ def get_data(input_path):
 					print('Found class name with special name bg. Will be treated as a background region (this is usually for hard negative mining).')
 					found_bg = True
 				class_mapping[class_name] = len(class_mapping)
+			
 
 			if filename not in all_imgs:
 				all_imgs[filename] = {}
-				
+				print(filename)
 				img = cv2.imread(filename)
 				(rows,cols) = img.shape[:2]
 				all_imgs[filename]['filepath'] = filename

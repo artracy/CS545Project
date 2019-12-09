@@ -12,7 +12,7 @@ from keras.layers import Input
 from keras.models import Model
 from keras_frcnn import roi_helpers
 
-sys.setrecursionlimit(40000)
+sys.setrecursionlimit(4000)
 
 parser = OptionParser()
 
@@ -165,7 +165,7 @@ for idx, img_name in enumerate(sorted(os.listdir(img_path))):
 	[Y1, Y2, F] = model_rpn.predict(X)
 	
 
-	R = roi_helpers.rpn_to_roi(Y1, Y2, C, K.image_dim_ordering(), overlap_thresh=0.7)
+	R = roi_helpers.rpn_to_roi(Y1, Y2, C, K.image_dim_ordering(),max_boxes=100, overlap_thresh=0.7)
 
 	# convert from (x1,y1,x2,y2) to (x,y,w,h)
 	R[:, 2] -= R[:, 0]
@@ -226,7 +226,7 @@ for idx, img_name in enumerate(sorted(os.listdir(img_path))):
 		for jk in range(new_boxes.shape[0]):
 			(x1, y1, x2, y2) = new_boxes[jk,:]
 
-			(real_x1, real_y1, real_x2, real_y2) = get_real_coordinates(ratio, x1, y1, x2, y2)
+			(real_x1, real_y1, real_x2, real_y2) = get_real_coordinates(ratio, x1, y1, x2, y2) 
 
 			cv2.rectangle(img,(real_x1, real_y1), (real_x2, real_y2), (int(class_to_color[key][0]), int(class_to_color[key][1]), int(class_to_color[key][2])),2)
 
@@ -239,9 +239,13 @@ for idx, img_name in enumerate(sorted(os.listdir(img_path))):
 			cv2.rectangle(img, (textOrg[0] - 5, textOrg[1]+baseLine - 5), (textOrg[0]+retval[0] + 5, textOrg[1]-retval[1] - 5), (0, 0, 0), 2)
 			cv2.rectangle(img, (textOrg[0] - 5,textOrg[1]+baseLine - 5), (textOrg[0]+retval[0] + 5, textOrg[1]-retval[1] - 5), (255, 255, 255), -1)
 			cv2.putText(img, textLabel, textOrg, cv2.FONT_HERSHEY_DUPLEX, 1, (0, 0, 0), 1)
+			
+			print(key)
+			print(x1, y1, x2, y2)
+			print(real_x1, real_y1, real_x2, real_y2)
 
 	print('Elapsed time = {}'.format(time.time() - st))
 	print(all_dets)
-	cv2.imshow('img', img)
-	cv2.waitKey(0)
-	# cv2.imwrite('./results_imgs/{}.png'.format(idx),img)
+	#cv2.imshow('img', img)
+	#cv2.waitKey(0)
+	cv2.imwrite('{}.png'.format(idx),img)

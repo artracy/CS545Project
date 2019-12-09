@@ -1,0 +1,709 @@
+ 178/1000 [====>.........................] - ETA: 3650s - rpn_cls: 0.0976 - rpn_regr: 0.1851 - detector_cls: 0.1119 - detector_regr: 8.9335e-04Exception: 'a' cannot be empty unless no sample
+s are taken
+ 180/1000 [====>.........................] - ETA: 3651s - rpn_cls: 0.0966 - rpn_regr: 0.1850 - detector_cls: 0.1115 - detector_regr: 8.8914e-04Exception: 'a' cannot be empty unless no sample
+s are taken
+ 181/1000 [====>.........................] - ETA: 3657s - rpn_cls: 0.0962 - rpn_regr: 0.1859 - detector_cls: 0.1110 - detector_regr: 8.8423e-04Exception: 'a' cannot be empty unless no sample
+s are taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 184/1000 [====>.........................] - ETA: 3665s - rpn_cls: 0.0963 - rpn_regr: 0.1858 - detector_cls: 0.1142 - detector_regr: 8.7739e-04Exception: 'a' cannot be empty unless no sample
+s are taken
+ 185/1000 [====>.........................] - ETA: 3672s - rpn_cls: 0.1001 - rpn_regr: 0.1885 - detector_cls: 0.1142 - detector_regr: 8.7622e-04Exception: 'a' cannot be empty unless no sample
+s are taken
+Exception: 'a' cannot be empty unless no samples are taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 190/1000 [====>.........................] - ETA: 3689s - rpn_cls: 0.0996 - rpn_regr: 0.1870 - detector_cls: 0.1131 - detector_regr: 8.6026e-04Exception: 'a' cannot be empty unless no sample
+s are taken
+ 192/1000 [====>.........................] - ETA: 3688s - rpn_cls: 0.0990 - rpn_regr: 0.1883 - detector_cls: 0.1133 - detector_regr: 8.5820e-04Exception: 'a' cannot be empty unless no sample
+s are taken
+ 195/1000 [====>.........................] - ETA: 3672s - rpn_cls: 0.0978 - rpn_regr: 0.1893 - detector_cls: 0.1126 - detector_regr: 8.5161e-04Exception: 'a' cannot be empty unless no sample
+s are taken
+ 202/1000 [=====>........................] - ETA: 3640s - rpn_cls: 0.0967 - rpn_regr: 0.1874 - detector_cls: 0.1114 - detector_regr: 8.3191e-04Exception: 'a' cannot be empty unless no sample
+s are taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 206/1000 [=====>........................] - ETA: 3653s - rpn_cls: 0.0974 - rpn_regr: 0.1870 - detector_cls: 0.1126 - detector_regr: 0.0030Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 209/1000 [=====>........................] - ETA: 3640s - rpn_cls: 0.0962 - rpn_regr: 0.1867 - detector_cls: 0.1136 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 223/1000 [=====>........................] - ETA: 3544s - rpn_cls: 0.1002 - rpn_regr: 0.1872 - detector_cls: 0.1131 - detector_regr: 0.0035Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 237/1000 [======>.......................] - ETA: 3459s - rpn_cls: 0.0988 - rpn_regr: 0.1882 - detector_cls: 0.1150 - detector_regr: 0.0036Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 240/1000 [======>.......................] - ETA: 3449s - rpn_cls: 0.0983 - rpn_regr: 0.1871 - detector_cls: 0.1143 - detector_regr: 0.0037Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 270/1000 [=======>......................] - ETA: 3274s - rpn_cls: 0.1023 - rpn_regr: 0.1859 - detector_cls: 0.1137 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 276/1000 [=======>......................] - ETA: 3250s - rpn_cls: 0.1006 - rpn_regr: 0.1850 - detector_cls: 0.1149 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 283/1000 [=======>......................] - ETA: 3211s - rpn_cls: 0.1001 - rpn_regr: 0.1852 - detector_cls: 0.1136 - detector_regr: 0.0032Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 289/1000 [=======>......................] - ETA: 3178s - rpn_cls: 0.0988 - rpn_regr: 0.1844 - detector_cls: 0.1131 - detector_regr: 0.0032Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 292/1000 [=======>......................] - ETA: 3167s - rpn_cls: 0.0990 - rpn_regr: 0.1843 - detector_cls: 0.1132 - detector_regr: 0.0032Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 293/1000 [=======>......................] - ETA: 3178s - rpn_cls: 0.0992 - rpn_regr: 0.1843 - detector_cls: 0.1145 - detector_regr: 0.0032Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 299/1000 [=======>......................] - ETA: 3155s - rpn_cls: 0.0982 - rpn_regr: 0.1848 - detector_cls: 0.1154 - detector_regr: 0.0031Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 312/1000 [========>.....................] - ETA: 3080s - rpn_cls: 0.0989 - rpn_regr: 0.1848 - detector_cls: 0.1140 - detector_regr: 0.0030Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 317/1000 [========>.....................] - ETA: 3064s - rpn_cls: 0.0977 - rpn_regr: 0.1844 - detector_cls: 0.1139 - detector_regr: 0.0030Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 324/1000 [========>.....................] - ETA: 3026s - rpn_cls: 0.0990 - rpn_regr: 0.1843 - detector_cls: 0.1121 - detector_regr: 0.0029Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 328/1000 [========>.....................] - ETA: 3008s - rpn_cls: 0.0984 - rpn_regr: 0.1840 - detector_cls: 0.1149 - detector_regr: 0.0029Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 335/1000 [=========>....................] - ETA: 2970s - rpn_cls: 0.1041 - rpn_regr: 0.1824 - detector_cls: 0.1147 - detector_regr: 0.0028Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 339/1000 [=========>....................] - ETA: 2952s - rpn_cls: 0.1037 - rpn_regr: 0.1821 - detector_cls: 0.1161 - detector_regr: 0.0028Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 340/1000 [=========>....................] - ETA: 2967s - rpn_cls: 0.1036 - rpn_regr: 0.1820 - detector_cls: 0.1174 - detector_regr: 0.0028Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 347/1000 [=========>....................] - ETA: 2932s - rpn_cls: 0.1065 - rpn_regr: 0.1820 - detector_cls: 0.1187 - detector_regr: 0.0028Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 354/1000 [=========>....................] - ETA: 2902s - rpn_cls: 0.1081 - rpn_regr: 0.1832 - detector_cls: 0.1203 - detector_regr: 0.0027Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 359/1000 [=========>....................] - ETA: 2879s - rpn_cls: 0.1076 - rpn_regr: 0.1829 - detector_cls: 0.1228 - detector_regr: 0.0027Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 373/1000 [==========>...................] - ETA: 2801s - rpn_cls: 0.1065 - rpn_regr: 0.1815 - detector_cls: 0.1220 - detector_regr: 0.0026Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 374/1000 [==========>...................] - ETA: 2801s - rpn_cls: 0.1063 - rpn_regr: 0.1816 - detector_cls: 0.1217 - detector_regr: 0.0026Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 377/1000 [==========>...................] - ETA: 2788s - rpn_cls: 0.1060 - rpn_regr: 0.1813 - detector_cls: 0.1212 - detector_regr: 0.0026Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 381/1000 [==========>...................] - ETA: 2770s - rpn_cls: 0.1054 - rpn_regr: 0.1811 - detector_cls: 0.1223 - detector_regr: 0.0026Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 383/1000 [==========>...................] - ETA: 2764s - rpn_cls: 0.1051 - rpn_regr: 0.1809 - detector_cls: 0.1220 - detector_regr: 0.0026Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 387/1000 [==========>...................] - ETA: 2746s - rpn_cls: 0.1071 - rpn_regr: 0.1817 - detector_cls: 0.1220 - detector_regr: 0.0025Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 390/1000 [==========>...................] - ETA: 2738s - rpn_cls: 0.1068 - rpn_regr: 0.1815 - detector_cls: 0.1217 - detector_regr: 0.0025Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 400/1000 [===========>..................] - ETA: 2686s - rpn_cls: 0.1055 - rpn_regr: 0.1820 - detector_cls: 0.1203 - detector_regr: 0.0025Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 414/1000 [===========>..................] - ETA: 2615s - rpn_cls: 0.1065 - rpn_regr: 0.1810 - detector_cls: 0.1217 - detector_regr: 0.0024Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 437/1000 [============>.................] - ETA: 2494s - rpn_cls: 0.1038 - rpn_regr: 0.1782 - detector_cls: 0.1223 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 440/1000 [============>.................] - ETA: 2482s - rpn_cls: 0.1033 - rpn_regr: 0.1779 - detector_cls: 0.1223 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 444/1000 [============>.................] - ETA: 2465s - rpn_cls: 0.1035 - rpn_regr: 0.1783 - detector_cls: 0.1220 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 464/1000 [============>.................] - ETA: 2362s - rpn_cls: 0.1018 - rpn_regr: 0.1773 - detector_cls: 0.1248 - detector_regr: 0.0027Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 469/1000 [=============>................] - ETA: 2340s - rpn_cls: 0.1010 - rpn_regr: 0.1778 - detector_cls: 0.1250 - detector_regr: 0.0027Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 481/1000 [=============>................] - ETA: 2283s - rpn_cls: 0.0997 - rpn_regr: 0.1771 - detector_cls: 0.1262 - detector_regr: 0.0032Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 484/1000 [=============>................] - ETA: 2271s - rpn_cls: 0.0991 - rpn_regr: 0.1770 - detector_cls: 0.1263 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 507/1000 [==============>...............] - ETA: 2155s - rpn_cls: 0.0995 - rpn_regr: 0.1777 - detector_cls: 0.1267 - detector_regr: 0.0034Average number of overlapping bounding boxes from R
+PN = 2.25 for 1000 previous iterations
+ 517/1000 [==============>...............] - ETA: 2103s - rpn_cls: 0.1021 - rpn_regr: 0.1769 - detector_cls: 0.1277 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 519/1000 [==============>...............] - ETA: 2097s - rpn_cls: 0.1018 - rpn_regr: 0.1768 - detector_cls: 0.1276 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 524/1000 [==============>...............] - ETA: 2075s - rpn_cls: 0.1019 - rpn_regr: 0.1763 - detector_cls: 0.1270 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 526/1000 [==============>...............] - ETA: 2068s - rpn_cls: 0.1020 - rpn_regr: 0.1762 - detector_cls: 0.1267 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 527/1000 [==============>...............] - ETA: 2065s - rpn_cls: 0.1018 - rpn_regr: 0.1760 - detector_cls: 0.1264 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 529/1000 [==============>...............] - ETA: 2059s - rpn_cls: 0.1015 - rpn_regr: 0.1759 - detector_cls: 0.1271 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 531/1000 [==============>...............] - ETA: 2052s - rpn_cls: 0.1014 - rpn_regr: 0.1759 - detector_cls: 0.1272 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 532/1000 [==============>...............] - ETA: 2050s - rpn_cls: 0.1013 - rpn_regr: 0.1758 - detector_cls: 0.1270 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 534/1000 [===============>..............] - ETA: 2043s - rpn_cls: 0.1026 - rpn_regr: 0.1757 - detector_cls: 0.1272 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 536/1000 [===============>..............] - ETA: 2036s - rpn_cls: 0.1025 - rpn_regr: 0.1755 - detector_cls: 0.1274 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 546/1000 [===============>..............] - ETA: 1989s - rpn_cls: 0.1028 - rpn_regr: 0.1756 - detector_cls: 0.1258 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 557/1000 [===============>..............] - ETA: 1937s - rpn_cls: 0.1026 - rpn_regr: 0.1748 - detector_cls: 0.1254 - detector_regr: 0.0035Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 577/1000 [================>.............] - ETA: 1842s - rpn_cls: 0.1006 - rpn_regr: 0.1749 - detector_cls: 0.1265 - detector_regr: 0.0035Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 579/1000 [================>.............] - ETA: 1835s - rpn_cls: 0.1002 - rpn_regr: 0.1752 - detector_cls: 0.1264 - detector_regr: 0.0036Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 586/1000 [================>.............] - ETA: 1808s - rpn_cls: 0.1025 - rpn_regr: 0.1747 - detector_cls: 0.1258 - detector_regr: 0.0035Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 588/1000 [================>.............] - ETA: 1801s - rpn_cls: 0.1022 - rpn_regr: 0.1747 - detector_cls: 0.1257 - detector_regr: 0.0035Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 595/1000 [================>.............] - ETA: 1771s - rpn_cls: 0.1014 - rpn_regr: 0.1752 - detector_cls: 0.1248 - detector_regr: 0.0035Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 600/1000 [=================>............] - ETA: 1749s - rpn_cls: 0.1010 - rpn_regr: 0.1746 - detector_cls: 0.1241 - detector_regr: 0.0035Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 605/1000 [=================>............] - ETA: 1727s - rpn_cls: 0.1008 - rpn_regr: 0.1741 - detector_cls: 0.1234 - detector_regr: 0.0035Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 621/1000 [=================>............] - ETA: 1651s - rpn_cls: 0.1004 - rpn_regr: 0.1739 - detector_cls: 0.1225 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 623/1000 [=================>............] - ETA: 1643s - rpn_cls: 0.1002 - rpn_regr: 0.1737 - detector_cls: 0.1222 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 625/1000 [=================>............] - ETA: 1636s - rpn_cls: 0.0999 - rpn_regr: 0.1740 - detector_cls: 0.1221 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 628/1000 [=================>............] - ETA: 1624s - rpn_cls: 0.1006 - rpn_regr: 0.1738 - detector_cls: 0.1217 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 644/1000 [==================>...........] - ETA: 1550s - rpn_cls: 0.1000 - rpn_regr: 0.1734 - detector_cls: 0.1214 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 647/1000 [==================>...........] - ETA: 1539s - rpn_cls: 0.0997 - rpn_regr: 0.1731 - detector_cls: 0.1214 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 669/1000 [===================>..........] - ETA: 1435s - rpn_cls: 0.1005 - rpn_regr: 0.1717 - detector_cls: 0.1193 - detector_regr: 0.0032Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 671/1000 [===================>..........] - ETA: 1428s - rpn_cls: 0.1003 - rpn_regr: 0.1717 - detector_cls: 0.1195 - detector_regr: 0.0032Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 673/1000 [===================>..........] - ETA: 1420s - rpn_cls: 0.1000 - rpn_regr: 0.1714 - detector_cls: 0.1192 - detector_regr: 0.0032Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 674/1000 [===================>..........] - ETA: 1417s - rpn_cls: 0.0999 - rpn_regr: 0.1713 - detector_cls: 0.1191 - detector_regr: 0.0031Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 686/1000 [===================>..........] - ETA: 1362s - rpn_cls: 0.1005 - rpn_regr: 0.1715 - detector_cls: 0.1191 - detector_regr: 0.0031Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 691/1000 [===================>..........] - ETA: 1340s - rpn_cls: 0.0998 - rpn_regr: 0.1712 - detector_cls: 0.1186 - detector_regr: 0.0031Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 695/1000 [===================>..........] - ETA: 1323s - rpn_cls: 0.0994 - rpn_regr: 0.1714 - detector_cls: 0.1184 - detector_regr: 0.0031Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 696/1000 [===================>..........] - ETA: 1320s - rpn_cls: 0.0994 - rpn_regr: 0.1713 - detector_cls: 0.1183 - detector_regr: 0.0031Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 700/1000 [====================>.........] - ETA: 1303s - rpn_cls: 0.0991 - rpn_regr: 0.1711 - detector_cls: 0.1178 - detector_regr: 0.0031Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 710/1000 [====================>.........] - ETA: 1260s - rpn_cls: 0.0985 - rpn_regr: 0.1710 - detector_cls: 0.1187 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 713/1000 [====================>.........] - ETA: 1247s - rpn_cls: 0.0983 - rpn_regr: 0.1708 - detector_cls: 0.1184 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 714/1000 [====================>.........] - ETA: 1244s - rpn_cls: 0.0984 - rpn_regr: 0.1707 - detector_cls: 0.1182 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 719/1000 [====================>.........] - ETA: 1223s - rpn_cls: 0.0982 - rpn_regr: 0.1703 - detector_cls: 0.1182 - detector_regr: 0.0035Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 742/1000 [=====================>........] - ETA: 1120s - rpn_cls: 0.0958 - rpn_regr: 0.1697 - detector_cls: 0.1169 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 744/1000 [=====================>........] - ETA: 1112s - rpn_cls: 0.0958 - rpn_regr: 0.1695 - detector_cls: 0.1166 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 745/1000 [=====================>........] - ETA: 1110s - rpn_cls: 0.0958 - rpn_regr: 0.1694 - detector_cls: 0.1165 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 747/1000 [=====================>........] - ETA: 1101s - rpn_cls: 0.0957 - rpn_regr: 0.1696 - detector_cls: 0.1162 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 748/1000 [=====================>........] - ETA: 1098s - rpn_cls: 0.0956 - rpn_regr: 0.1695 - detector_cls: 0.1161 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 754/1000 [=====================>........] - ETA: 1071s - rpn_cls: 0.0954 - rpn_regr: 0.1691 - detector_cls: 0.1155 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 758/1000 [=====================>........] - ETA: 1054s - rpn_cls: 0.0950 - rpn_regr: 0.1689 - detector_cls: 0.1154 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 772/1000 [======================>.......] - ETA: 991s - rpn_cls: 0.0971 - rpn_regr: 0.1687 - detector_cls: 0.1144 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples are
+ taken
+ 794/1000 [======================>.......] - ETA: 892s - rpn_cls: 0.0957 - rpn_regr: 0.1681 - detector_cls: 0.1128 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples are
+ taken
+ 811/1000 [=======================>......] - ETA: 816s - rpn_cls: 0.0971 - rpn_regr: 0.1682 - detector_cls: 0.1127 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples are
+ taken
+ 813/1000 [=======================>......] - ETA: 808s - rpn_cls: 0.0971 - rpn_regr: 0.1681 - detector_cls: 0.1127 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples are
+ taken
+ 827/1000 [=======================>......] - ETA: 746s - rpn_cls: 0.0961 - rpn_regr: 0.1679 - detector_cls: 0.1122 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples are
+ taken
+ 832/1000 [=======================>......] - ETA: 725s - rpn_cls: 0.0957 - rpn_regr: 0.1679 - detector_cls: 0.1118 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples are
+ taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 839/1000 [========================>.....] - ETA: 695s - rpn_cls: 0.0957 - rpn_regr: 0.1681 - detector_cls: 0.1121 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples are
+ taken
+ 843/1000 [========================>.....] - ETA: 678s - rpn_cls: 0.0956 - rpn_regr: 0.1679 - detector_cls: 0.1122 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples are
+ taken
+ 854/1000 [========================>.....] - ETA: 630s - rpn_cls: 0.0948 - rpn_regr: 0.1671 - detector_cls: 0.1126 - detector_regr: 0.0036Exception: 'a' cannot be empty unless no samples are
+ taken
+ 863/1000 [========================>.....] - ETA: 591s - rpn_cls: 0.0950 - rpn_regr: 0.1671 - detector_cls: 0.1133 - detector_regr: 0.0036Exception: 'a' cannot be empty unless no samples are
+ taken
+ 865/1000 [========================>.....] - ETA: 582s - rpn_cls: 0.0948 - rpn_regr: 0.1669 - detector_cls: 0.1133 - detector_regr: 0.0036Exception: 'a' cannot be empty unless no samples are
+ taken
+ 877/1000 [=========================>....] - ETA: 530s - rpn_cls: 0.0952 - rpn_regr: 0.1667 - detector_cls: 0.1138 - detector_regr: 0.0035Exception: 'a' cannot be empty unless no samples are
+ taken
+ 898/1000 [=========================>....] - ETA: 438s - rpn_cls: 0.0953 - rpn_regr: 0.1659 - detector_cls: 0.1187 - detector_regr: 0.0036Exception: 'a' cannot be empty unless no samples are
+ taken
+ 912/1000 [==========================>...] - ETA: 377s - rpn_cls: 0.0942 - rpn_regr: 0.1650 - detector_cls: 0.1190 - detector_regr: 0.0037Exception: 'a' cannot be empty unless no samples are
+ taken
+ 950/1000 [===========================>..] - ETA: 213s - rpn_cls: 0.0958 - rpn_regr: 0.1645 - detector_cls: 0.1202 - detector_regr: 0.0036Exception: 'a' cannot be empty unless no samples are
+ taken
+ 959/1000 [===========================>..] - ETA: 175s - rpn_cls: 0.0951 - rpn_regr: 0.1640 - detector_cls: 0.1202 - detector_regr: 0.0036Exception: 'a' cannot be empty unless no samples are
+ taken
+ 966/1000 [===========================>..] - ETA: 145s - rpn_cls: 0.0950 - rpn_regr: 0.1642 - detector_cls: 0.1202 - detector_regr: 0.0036Exception: 'a' cannot be empty unless no samples are
+ taken
+ 979/1000 [============================>.] - ETA: 89s - rpn_cls: 0.0944 - rpn_regr: 0.1640 - detector_cls: 0.1194 - detector_regr: 0.0036Exception: 'a' cannot be empty unless no samples are
+taken
+ 985/1000 [============================>.] - ETA: 64s - rpn_cls: 0.0939 - rpn_regr: 0.1639 - detector_cls: 0.1196 - detector_regr: 0.0036Exception: 'a' cannot be empty unless no samples are
+taken
+1000/1000 [==============================] - 4263s - rpn_cls: 0.0932 - rpn_regr: 0.1632 - detector_cls: 0.1196 - detector_regr: 0.0035
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 2.3677966101694916
+Classifier accuracy for bounding boxes from RPN: 0.96096875
+Loss RPN classifier: 0.09322189569825423
+Loss RPN regression: 0.1631954744718969
+Loss Detector classifier: 0.11964369233098841
+Loss Detector regression: 0.0035316070826838554
+Elapsed time: 4281.161868572235
+Total loss decreased from 0.9817615559881829 to 0.37959266958382337, saving weights
+Epoch 3/20
+  18/1000 [..............................] - ETA: 3511s - rpn_cls: 0.1549 - rpn_regr: 0.1650 - detector_cls: 0.1081 - detector_regr: 0.0012Exception: 'a' cannot be empty unless no samples ar
+e taken
+  19/1000 [..............................] - ETA: 3700s - rpn_cls: 0.1508 - rpn_regr: 0.1631 - detector_cls: 0.1146 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples ar
+e taken
+  30/1000 [..............................] - ETA: 3743s - rpn_cls: 0.1032 - rpn_regr: 0.1445 - detector_cls: 0.1108 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples ar
+e taken
+  31/1000 [..............................] - ETA: 3845s - rpn_cls: 0.1013 - rpn_regr: 0.1438 - detector_cls: 0.1080 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples ar
+e taken
+  33/1000 [..............................] - ETA: 3924s - rpn_cls: 0.0958 - rpn_regr: 0.1480 - detector_cls: 0.1063 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+  52/1000 [>.............................] - ETA: 3783s - rpn_cls: 0.1137 - rpn_regr: 0.1398 - detector_cls: 0.0942 - detector_regr: 0.0015Exception: 'a' cannot be empty unless no samples ar
+e taken
+  62/1000 [>.............................] - ETA: 3742s - rpn_cls: 0.1022 - rpn_regr: 0.1350 - detector_cls: 0.0928 - detector_regr: 0.0014Exception: 'a' cannot be empty unless no samples ar
+e taken
+  76/1000 [=>............................] - ETA: 3662s - rpn_cls: 0.0881 - rpn_regr: 0.1325 - detector_cls: 0.0910 - detector_regr: 0.0013Exception: 'a' cannot be empty unless no samples ar
+e taken
+  81/1000 [=>............................] - ETA: 3661s - rpn_cls: 0.0855 - rpn_regr: 0.1308 - detector_cls: 0.0937 - detector_regr: 0.0012Exception: 'a' cannot be empty unless no samples ar
+e taken
+  94/1000 [=>............................] - ETA: 3608s - rpn_cls: 0.0947 - rpn_regr: 0.1342 - detector_cls: 0.0944 - detector_regr: 0.0011Exception: 'a' cannot be empty unless no samples ar
+e taken
+  97/1000 [=>............................] - ETA: 3615s - rpn_cls: 0.0941 - rpn_regr: 0.1326 - detector_cls: 0.0923 - detector_regr: 0.0011Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 143/1000 [===>..........................] - ETA: 3351s - rpn_cls: 0.0812 - rpn_regr: 0.1306 - detector_cls: 0.0946 - detector_regr: 0.0026Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 153/1000 [===>..........................] - ETA: 3311s - rpn_cls: 0.0868 - rpn_regr: 0.1294 - detector_cls: 0.0934 - detector_regr: 0.0028Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 155/1000 [===>..........................] - ETA: 3320s - rpn_cls: 0.0859 - rpn_regr: 0.1290 - detector_cls: 0.0928 - detector_regr: 0.0028Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 157/1000 [===>..........................] - ETA: 3326s - rpn_cls: 0.0848 - rpn_regr: 0.1283 - detector_cls: 0.0919 - detector_regr: 0.0028Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 174/1000 [====>.........................] - ETA: 3251s - rpn_cls: 0.0893 - rpn_regr: 0.1255 - detector_cls: 0.0888 - detector_regr: 0.0027Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 185/1000 [====>.........................] - ETA: 3210s - rpn_cls: 0.0852 - rpn_regr: 0.1266 - detector_cls: 0.0890 - detector_regr: 0.0027Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 188/1000 [====>.........................] - ETA: 3226s - rpn_cls: 0.0841 - rpn_regr: 0.1263 - detector_cls: 0.0918 - detector_regr: 0.0027Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 201/1000 [=====>........................] - ETA: 3167s - rpn_cls: 0.0804 - rpn_regr: 0.1250 - detector_cls: 0.0909 - detector_regr: 0.0026Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 228/1000 [=====>........................] - ETA: 3043s - rpn_cls: 0.0820 - rpn_regr: 0.1262 - detector_cls: 0.0901 - detector_regr: 0.0024Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 313/1000 [========>.....................] - ETA: 2658s - rpn_cls: 0.0732 - rpn_regr: 0.1241 - detector_cls: 0.0976 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 343/1000 [=========>....................] - ETA: 2534s - rpn_cls: 0.0761 - rpn_regr: 0.1264 - detector_cls: 0.1079 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 371/1000 [==========>...................] - ETA: 2417s - rpn_cls: 0.0727 - rpn_regr: 0.1244 - detector_cls: 0.1096 - detector_regr: 0.0024Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 375/1000 [==========>...................] - ETA: 2406s - rpn_cls: 0.0723 - rpn_regr: 0.1240 - detector_cls: 0.1109 - detector_regr: 0.0024Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 383/1000 [==========>...................] - ETA: 2378s - rpn_cls: 0.0712 - rpn_regr: 0.1233 - detector_cls: 0.1110 - detector_regr: 0.0024Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 396/1000 [==========>...................] - ETA: 2329s - rpn_cls: 0.0718 - rpn_regr: 0.1231 - detector_cls: 0.1108 - detector_regr: 0.0024Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 406/1000 [===========>..................] - ETA: 2291s - rpn_cls: 0.0709 - rpn_regr: 0.1231 - detector_cls: 0.1097 - detector_regr: 0.0023Average number of overlapping bounding boxes from R
+PN = 2.477 for 1000 previous iterations
+ 416/1000 [===========>..................] - ETA: 2249s - rpn_cls: 0.0701 - rpn_regr: 0.1226 - detector_cls: 0.1093 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 434/1000 [============>.................] - ETA: 2178s - rpn_cls: 0.0716 - rpn_regr: 0.1221 - detector_cls: 0.1095 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 477/1000 [=============>................] - ETA: 2010s - rpn_cls: 0.0750 - rpn_regr: 0.1228 - detector_cls: 0.1100 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 553/1000 [===============>..............] - ETA: 1710s - rpn_cls: 0.0729 - rpn_regr: 0.1223 - detector_cls: 0.1132 - detector_regr: 0.0022Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 602/1000 [=================>............] - ETA: 1518s - rpn_cls: 0.0736 - rpn_regr: 0.1211 - detector_cls: 0.1148 - detector_regr: 0.0021Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 629/1000 [=================>............] - ETA: 1416s - rpn_cls: 0.0738 - rpn_regr: 0.1203 - detector_cls: 0.1143 - detector_regr: 0.0021Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 711/1000 [====================>.........] - ETA: 1098s - rpn_cls: 0.0740 - rpn_regr: 0.1188 - detector_cls: 0.1141 - detector_regr: 0.0020Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 721/1000 [====================>.........] - ETA: 1060s - rpn_cls: 0.0732 - rpn_regr: 0.1185 - detector_cls: 0.1136 - detector_regr: 0.0020Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 755/1000 [=====================>........] - ETA: 932s - rpn_cls: 0.0730 - rpn_regr: 0.1174 - detector_cls: 0.1110 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples are
+ taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 769/1000 [======================>.......] - ETA: 880s - rpn_cls: 0.0731 - rpn_regr: 0.1171 - detector_cls: 0.1098 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples are
+ taken
+ 808/1000 [=======================>......] - ETA: 731s - rpn_cls: 0.0721 - rpn_regr: 0.1166 - detector_cls: 0.1088 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples are
+ taken
+ 818/1000 [=======================>......] - ETA: 693s - rpn_cls: 0.0713 - rpn_regr: 0.1163 - detector_cls: 0.1093 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples are
+ taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 820/1000 [=======================>......] - ETA: 687s - rpn_cls: 0.0711 - rpn_regr: 0.1165 - detector_cls: 0.1091 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples are
+ taken
+ 826/1000 [=======================>......] - ETA: 665s - rpn_cls: 0.0708 - rpn_regr: 0.1163 - detector_cls: 0.1088 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples are
+ taken
+ 856/1000 [========================>.....] - ETA: 550s - rpn_cls: 0.0689 - rpn_regr: 0.1156 - detector_cls: 0.1077 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples are
+ taken
+ 869/1000 [=========================>....] - ETA: 500s - rpn_cls: 0.0720 - rpn_regr: 0.1156 - detector_cls: 0.1067 - detector_regr: 0.0017Exception: 'a' cannot be empty unless no samples are
+ taken
+ 874/1000 [=========================>....] - ETA: 481s - rpn_cls: 0.0717 - rpn_regr: 0.1159 - detector_cls: 0.1062 - detector_regr: 0.0017Exception: 'a' cannot be empty unless no samples are
+ taken
+ 875/1000 [=========================>....] - ETA: 478s - rpn_cls: 0.0716 - rpn_regr: 0.1158 - detector_cls: 0.1062 - detector_regr: 0.0017Exception: 'a' cannot be empty unless no samples are
+ taken
+ 927/1000 [==========================>...] - ETA: 279s - rpn_cls: 0.0707 - rpn_regr: 0.1144 - detector_cls: 0.1047 - detector_regr: 0.0022Exception: 'a' cannot be empty unless no samples are
+ taken
+ 949/1000 [===========================>..] - ETA: 194s - rpn_cls: 0.0698 - rpn_regr: 0.1135 - detector_cls: 0.1041 - detector_regr: 0.0024Exception: 'a' cannot be empty unless no samples are
+ taken
+ 980/1000 [============================>.] - ETA: 76s - rpn_cls: 0.0690 - rpn_regr: 0.1125 - detector_cls: 0.1028 - detector_regr: 0.0025Exception: 'a' cannot be empty unless no samples are
+taken
+ 993/1000 [============================>.] - ETA: 26s - rpn_cls: 0.0698 - rpn_regr: 0.1119 - detector_cls: 0.1021 - detector_regr: 0.0025Exception: 'a' cannot be empty unless no samples are
+taken
+ 994/1000 [============================>.] - ETA: 22s - rpn_cls: 0.0698 - rpn_regr: 0.1119 - detector_cls: 0.1020 - detector_regr: 0.0025Exception: 'a' cannot be empty unless no samples are
+taken
+1000/1000 [==============================] - 3826s - rpn_cls: 0.0702 - rpn_regr: 0.1120 - detector_cls: 0.1016 - detector_regr: 0.0025
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 2.6064333017975403
+Classifier accuracy for bounding boxes from RPN: 0.96840625
+Loss RPN classifier: 0.07018558883047081
+Loss RPN regression: 0.11201691712811589
+Loss Detector classifier: 0.10164742164390918
+Loss Detector regression: 0.0024997745538149234
+Elapsed time: 3826.4588611125946
+Total loss decreased from 0.37959266958382337 to 0.28634970215631084, saving weights
+Epoch 4/20
+   5/1000 [..............................] - ETA: 3500s - rpn_cls: 0.1706 - rpn_regr: 0.1092 - detector_cls: 0.1560 - detector_regr: 9.3622e-04Exception: 'a' cannot be empty unless no sample
+s are taken
+   9/1000 [..............................] - ETA: 3921s - rpn_cls: 0.2042 - rpn_regr: 0.1112 - detector_cls: 0.0917 - detector_regr: 0.0015Exception: 'a' cannot be empty unless no samples ar
+e taken
+  43/1000 [>.............................] - ETA: 3614s - rpn_cls: 0.0605 - rpn_regr: 0.0757 - detector_cls: 0.0973 - detector_regr: 0.0017Exception: 'a' cannot be empty unless no samples ar
+e taken
+  51/1000 [>.............................] - ETA: 3598s - rpn_cls: 0.0682 - rpn_regr: 0.0742 - detector_cls: 0.1004 - detector_regr: 0.0015Exception: 'a' cannot be empty unless no samples ar
+e taken
+  79/1000 [=>............................] - ETA: 3484s - rpn_cls: 0.0894 - rpn_regr: 0.0857 - detector_cls: 0.0846 - detector_regr: 0.0013Exception: 'a' cannot be empty unless no samples ar
+e taken
+  97/1000 [=>............................] - ETA: 3443s - rpn_cls: 0.0831 - rpn_regr: 0.0895 - detector_cls: 0.0899 - detector_regr: 0.0012Exception: 'a' cannot be empty unless no samples ar
+e taken
+  98/1000 [=>............................] - ETA: 3466s - rpn_cls: 0.0824 - rpn_regr: 0.0890 - detector_cls: 0.0897 - detector_regr: 0.0012Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 127/1000 [==>...........................] - ETA: 3349s - rpn_cls: 0.0880 - rpn_regr: 0.0895 - detector_cls: 0.0830 - detector_regr: 0.0012Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 173/1000 [====>.........................] - ETA: 3122s - rpn_cls: 0.0732 - rpn_regr: 0.0895 - detector_cls: 0.0825 - detector_regr: 0.0013Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 194/1000 [====>.........................] - ETA: 3071s - rpn_cls: 0.0835 - rpn_regr: 0.0881 - detector_cls: 0.0841 - detector_regr: 0.0014Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 290/1000 [=======>......................] - ETA: 2682s - rpn_cls: 0.0891 - rpn_regr: 0.0889 - detector_cls: 0.0876 - detector_regr: 0.0016Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 325/1000 [========>.....................] - ETA: 2542s - rpn_cls: 0.0843 - rpn_regr: 0.0869 - detector_cls: 0.0855 - detector_regr: 0.0015Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 356/1000 [=========>....................] - ETA: 2429s - rpn_cls: 0.0786 - rpn_regr: 0.0854 - detector_cls: 0.0823 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 362/1000 [=========>....................] - ETA: 2411s - rpn_cls: 0.0777 - rpn_regr: 0.0850 - detector_cls: 0.0822 - detector_regr: 0.0018Average number of overlapping bounding boxes from R
+PN = 2.646 for 1000 previous iterations
+ 372/1000 [==========>...................] - ETA: 2370s - rpn_cls: 0.0763 - rpn_regr: 0.0853 - detector_cls: 0.0809 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 424/1000 [===========>..................] - ETA: 2168s - rpn_cls: 0.0755 - rpn_regr: 0.0838 - detector_cls: 0.0764 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 442/1000 [============>.................] - ETA: 2103s - rpn_cls: 0.0779 - rpn_regr: 0.0833 - detector_cls: 0.0747 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 443/1000 [============>.................] - ETA: 2103s - rpn_cls: 0.0777 - rpn_regr: 0.0832 - detector_cls: 0.0748 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 463/1000 [============>.................] - ETA: 2027s - rpn_cls: 0.0766 - rpn_regr: 0.0831 - detector_cls: 0.0740 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 470/1000 [=============>................] - ETA: 2004s - rpn_cls: 0.0757 - rpn_regr: 0.0829 - detector_cls: 0.0742 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 484/1000 [=============>................] - ETA: 1951s - rpn_cls: 0.0738 - rpn_regr: 0.0821 - detector_cls: 0.0730 - detector_regr: 0.0022Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 490/1000 [=============>................] - ETA: 1932s - rpn_cls: 0.0739 - rpn_regr: 0.0818 - detector_cls: 0.0723 - detector_regr: 0.0022Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 515/1000 [==============>...............] - ETA: 1839s - rpn_cls: 0.0746 - rpn_regr: 0.0810 - detector_cls: 0.0733 - detector_regr: 0.0022Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 569/1000 [================>.............] - ETA: 1629s - rpn_cls: 0.0731 - rpn_regr: 0.0811 - detector_cls: 0.0780 - detector_regr: 0.0022Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 583/1000 [================>.............] - ETA: 1576s - rpn_cls: 0.0715 - rpn_regr: 0.0804 - detector_cls: 0.0771 - detector_regr: 0.0022Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 634/1000 [==================>...........] - ETA: 1381s - rpn_cls: 0.0781 - rpn_regr: 0.0802 - detector_cls: 0.0756 - detector_regr: 0.0021Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 654/1000 [==================>...........] - ETA: 1306s - rpn_cls: 0.0803 - rpn_regr: 0.0803 - detector_cls: 0.0756 - detector_regr: 0.0020Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 671/1000 [===================>..........] - ETA: 1243s - rpn_cls: 0.0805 - rpn_regr: 0.0809 - detector_cls: 0.0755 - detector_regr: 0.0020Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 674/1000 [===================>..........] - ETA: 1233s - rpn_cls: 0.0802 - rpn_regr: 0.0810 - detector_cls: 0.0753 - detector_regr: 0.0020Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 711/1000 [====================>.........] - ETA: 1092s - rpn_cls: 0.0828 - rpn_regr: 0.0806 - detector_cls: 0.0733 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 736/1000 [=====================>........] - ETA: 998s - rpn_cls: 0.0827 - rpn_regr: 0.0800 - detector_cls: 0.0739 - detector_regr: 0.0019 Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 743/1000 [=====================>........] - ETA: 972s - rpn_cls: 0.0825 - rpn_regr: 0.0797 - detector_cls: 0.0737 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples are
+ taken
+ 747/1000 [=====================>........] - ETA: 958s - rpn_cls: 0.0821 - rpn_regr: 0.0796 - detector_cls: 0.0735 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples are
+ taken
+ 748/1000 [=====================>........] - ETA: 955s - rpn_cls: 0.0820 - rpn_regr: 0.0796 - detector_cls: 0.0734 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples are
+ taken
+ 786/1000 [======================>.......] - ETA: 811s - rpn_cls: 0.0797 - rpn_regr: 0.0793 - detector_cls: 0.0741 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples are
+ taken
+ 787/1000 [======================>.......] - ETA: 808s - rpn_cls: 0.0796 - rpn_regr: 0.0793 - detector_cls: 0.0740 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples are
+ taken
+ 821/1000 [=======================>......] - ETA: 678s - rpn_cls: 0.0831 - rpn_regr: 0.0791 - detector_cls: 0.0734 - detector_regr: 0.0020Exception: 'a' cannot be empty unless no samples are
+ taken
+ 851/1000 [========================>.....] - ETA: 564s - rpn_cls: 0.0806 - rpn_regr: 0.0783 - detector_cls: 0.0745 - detector_regr: 0.0038Exception: 'a' cannot be empty unless no samples are
+ taken
+ 866/1000 [========================>.....] - ETA: 508s - rpn_cls: 0.0797 - rpn_regr: 0.0780 - detector_cls: 0.0740 - detector_regr: 0.0039Exception: 'a' cannot be empty unless no samples are
+ taken
+ 898/1000 [=========================>....] - ETA: 386s - rpn_cls: 0.0809 - rpn_regr: 0.0772 - detector_cls: 0.0727 - detector_regr: 0.0041Exception: 'a' cannot be empty unless no samples are
+ taken
+ 912/1000 [==========================>...] - ETA: 333s - rpn_cls: 0.0806 - rpn_regr: 0.0775 - detector_cls: 0.0718 - detector_regr: 0.0041Exception: 'a' cannot be empty unless no samples are
+ taken
+ 975/1000 [============================>.] - ETA: 94s - rpn_cls: 0.0783 - rpn_regr: 0.0765 - detector_cls: 0.0705 - detector_regr: 0.0044Exception: 'a' cannot be empty unless no samples are
+taken
+1000/1000 [==============================] - 3787s - rpn_cls: 0.0806 - rpn_regr: 0.0763 - detector_cls: 0.0703 - detector_regr: 0.0044
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 2.728667305848514
+Classifier accuracy for bounding boxes from RPN: 0.98128125
+Loss RPN classifier: 0.08060828186629805
+Loss RPN regression: 0.0763328884691
+Loss Detector classifier: 0.07026135414194869
+Loss Detector regression: 0.004374449019866859
+Elapsed time: 3787.769647836685
+Total loss decreased from 0.28634970215631084 to 0.2315769734972136, saving weights
+Epoch 5/20
+   5/1000 [..............................] - ETA: 3731s - rpn_cls: 0.0045 - rpn_regr: 0.0565 - detector_cls: 0.0074 - detector_regr: 0.0056Exception: 'a' cannot be empty unless no samples ar
+e taken
+  41/1000 [>.............................] - ETA: 3526s - rpn_cls: 0.0211 - rpn_regr: 0.0400 - detector_cls: 0.0445 - detector_regr: 0.0028Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 137/1000 [===>..........................] - ETA: 3192s - rpn_cls: 0.0606 - rpn_regr: 0.0510 - detector_cls: 0.0523 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 146/1000 [===>..........................] - ETA: 3178s - rpn_cls: 0.0577 - rpn_regr: 0.0511 - detector_cls: 0.0548 - detector_regr: 0.0017Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 149/1000 [===>..........................] - ETA: 3183s - rpn_cls: 0.0566 - rpn_regr: 0.0510 - detector_cls: 0.0566 - detector_regr: 0.0017Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 196/1000 [====>.........................] - ETA: 2998s - rpn_cls: 0.0636 - rpn_regr: 0.0536 - detector_cls: 0.0792 - detector_regr: 0.0017Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 214/1000 [=====>........................] - ETA: 2938s - rpn_cls: 0.0646 - rpn_regr: 0.0537 - detector_cls: 0.0845 - detector_regr: 0.0023Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 271/1000 [=======>......................] - ETA: 2718s - rpn_cls: 0.0673 - rpn_regr: 0.0557 - detector_cls: 0.0794 - detector_regr: 0.0020Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 291/1000 [=======>......................] - ETA: 2656s - rpn_cls: 0.0751 - rpn_regr: 0.0563 - detector_cls: 0.0821 - detector_regr: 0.0020Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 301/1000 [========>.....................] - ETA: 2622s - rpn_cls: 0.0767 - rpn_regr: 0.0559 - detector_cls: 0.0809 - detector_regr: 0.0020Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 323/1000 [========>.....................] - ETA: 2537s - rpn_cls: 0.0732 - rpn_regr: 0.0547 - detector_cls: 0.0813 - detector_regr: 0.0019Average number of overlapping bounding boxes from R
+PN = 2.812 for 1000 previous iterations
+Exception: 'a' cannot be empty unless no samples are taken
+ 340/1000 [=========>....................] - ETA: 2475s - rpn_cls: 0.0717 - rpn_regr: 0.0538 - detector_cls: 0.0801 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples ar
+e taken
+Exception: 'a' cannot be empty unless no samples are taken
+ 347/1000 [=========>....................] - ETA: 2461s - rpn_cls: 0.0713 - rpn_regr: 0.0536 - detector_cls: 0.0803 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 382/1000 [==========>...................] - ETA: 2326s - rpn_cls: 0.0738 - rpn_regr: 0.0533 - detector_cls: 0.0780 - detector_regr: 0.0020Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 444/1000 [============>.................] - ETA: 2086s - rpn_cls: 0.0779 - rpn_regr: 0.0548 - detector_cls: 0.0728 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 502/1000 [==============>...............] - ETA: 1868s - rpn_cls: 0.0748 - rpn_regr: 0.0531 - detector_cls: 0.0710 - detector_regr: 0.0020Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 597/1000 [================>.............] - ETA: 1505s - rpn_cls: 0.0751 - rpn_regr: 0.0523 - detector_cls: 0.0711 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 599/1000 [================>.............] - ETA: 1499s - rpn_cls: 0.0749 - rpn_regr: 0.0522 - detector_cls: 0.0713 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 608/1000 [=================>............] - ETA: 1469s - rpn_cls: 0.0750 - rpn_regr: 0.0520 - detector_cls: 0.0715 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 834/1000 [========================>.....] - ETA: 617s - rpn_cls: 0.0774 - rpn_regr: 0.0500 - detector_cls: 0.0661 - detector_regr: 0.0017Exception: 'a' cannot be empty unless no samples are
+ taken
+ 868/1000 [=========================>....] - ETA: 491s - rpn_cls: 0.0772 - rpn_regr: 0.0494 - detector_cls: 0.0655 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples are
+ taken
+1000/1000 [==============================] - 3718s - rpn_cls: 0.0756 - rpn_regr: 0.0480 - detector_cls: 0.0642 - detector_regr: 0.0025
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 2.9423264907135875
+Classifier accuracy for bounding boxes from RPN: 0.97990625
+Loss RPN classifier: 0.07560633531772327
+Loss RPN regression: 0.047956237392500045
+Loss Detector classifier: 0.0641587046747518
+Loss Detector regression: 0.00252470499192853
+Elapsed time: 3719.004715204239
+Total loss decreased from 0.2315769734972136 to 0.19024598237690366, saving weights
+Epoch 6/20
+  37/1000 [>.............................] - ETA: 3499s - rpn_cls: 0.1359 - rpn_regr: 0.0421 - detector_cls: 0.0730 - detector_regr: 0.0030Exception: 'a' cannot be empty unless no samples ar
+e taken
+  85/1000 [=>............................] - ETA: 3338s - rpn_cls: 0.0774 - rpn_regr: 0.0407 - detector_cls: 0.0709 - detector_regr: 0.0040Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 140/1000 [===>..........................] - ETA: 3142s - rpn_cls: 0.0873 - rpn_regr: 0.0429 - detector_cls: 0.1094 - detector_regr: 0.0038Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 214/1000 [=====>........................] - ETA: 2887s - rpn_cls: 0.0769 - rpn_regr: 0.0396 - detector_cls: 0.1056 - detector_regr: 0.0030Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 261/1000 [======>.......................] - ETA: 2724s - rpn_cls: 0.0801 - rpn_regr: 0.0406 - detector_cls: 0.0988 - detector_regr: 0.0026Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 306/1000 [========>.....................] - ETA: 2567s - rpn_cls: 0.0775 - rpn_regr: 0.0390 - detector_cls: 0.0934 - detector_regr: 0.0027Average number of overlapping bounding boxes from R
+PN = 2.936 for 1000 previous iterations
+ 386/1000 [==========>...................] - ETA: 2260s - rpn_cls: 0.0767 - rpn_regr: 0.0382 - detector_cls: 0.0866 - detector_regr: 0.0025Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 431/1000 [===========>..................] - ETA: 2095s - rpn_cls: 0.0795 - rpn_regr: 0.0373 - detector_cls: 0.0853 - detector_regr: 0.0025Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 538/1000 [===============>..............] - ETA: 1702s - rpn_cls: 0.0784 - rpn_regr: 0.0366 - detector_cls: 0.0803 - detector_regr: 0.0027Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 628/1000 [=================>............] - ETA: 1369s - rpn_cls: 0.0749 - rpn_regr: 0.0349 - detector_cls: 0.0776 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 709/1000 [====================>.........] - ETA: 1071s - rpn_cls: 0.0742 - rpn_regr: 0.0341 - detector_cls: 0.0723 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 845/1000 [========================>.....] - ETA: 570s - rpn_cls: 0.0734 - rpn_regr: 0.0329 - detector_cls: 0.0663 - detector_regr: 0.0036Exception: 'a' cannot be empty unless no samples are
+ taken
+1000/1000 [==============================] - 3677s - rpn_cls: 0.0732 - rpn_regr: 0.0315 - detector_cls: 0.0642 - detector_regr: 0.0034
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 3.009891196834817
+Classifier accuracy for bounding boxes from RPN: 0.98040625
+Loss RPN classifier: 0.07321489295893298
+Loss RPN regression: 0.0314511317696888
+Loss Detector classifier: 0.0641552424953561
+Loss Detector regression: 0.003409811943405657
+Elapsed time: 3677.8193593025208
+Total loss decreased from 0.19024598237690366 to 0.17223107916738353, saving weights
+Epoch 7/20
+  26/1000 [..............................] - ETA: 3623s - rpn_cls: 0.0036 - rpn_regr: 0.0206 - detector_cls: 0.0565 - detector_regr: 0.0013Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 202/1000 [=====>........................] - ETA: 2916s - rpn_cls: 0.0751 - rpn_regr: 0.0265 - detector_cls: 0.0498 - detector_regr: 0.0015Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 298/1000 [=======>......................] - ETA: 2581s - rpn_cls: 0.0735 - rpn_regr: 0.0262 - detector_cls: 0.0462 - detector_regr: 0.0014Average number of overlapping bounding boxes from R
+PN = 3.029 for 1000 previous iterations
+ 318/1000 [========>.....................] - ETA: 2505s - rpn_cls: 0.0760 - rpn_regr: 0.0253 - detector_cls: 0.0449 - detector_regr: 0.0014Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 468/1000 [=============>................] - ETA: 1948s - rpn_cls: 0.0736 - rpn_regr: 0.0241 - detector_cls: 0.0475 - detector_regr: 0.0020Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 527/1000 [==============>...............] - ETA: 1732s - rpn_cls: 0.0747 - rpn_regr: 0.0245 - detector_cls: 0.0493 - detector_regr: 0.0021Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 795/1000 [======================>.......] - ETA: 751s - rpn_cls: 0.0743 - rpn_regr: 0.0230 - detector_cls: 0.0489 - detector_regr: 0.0025Exception: 'a' cannot be empty unless no samples are
+ taken
+ 937/1000 [===========================>..] - ETA: 231s - rpn_cls: 0.0719 - rpn_regr: 0.0227 - detector_cls: 0.0518 - detector_regr: 0.0025Exception: 'a' cannot be empty unless no samples are
+ taken
+ 956/1000 [===========================>..] - ETA: 161s - rpn_cls: 0.0719 - rpn_regr: 0.0230 - detector_cls: 0.0527 - detector_regr: 0.0025Exception: 'a' cannot be empty unless no samples are
+ taken
+1000/1000 [==============================] - 3673s - rpn_cls: 0.0737 - rpn_regr: 0.0232 - detector_cls: 0.0538 - detector_regr: 0.0024
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 2.9583333333333335
+Classifier accuracy for bounding boxes from RPN: 0.98446875
+Loss RPN classifier: 0.07368606109269604
+Loss RPN regression: 0.02318188326759264
+Loss Detector classifier: 0.05383976174327563
+Loss Detector regression: 0.0024210288617541663
+Elapsed time: 3673.7251250743866
+Total loss decreased from 0.17223107916738353 to 0.15312873496531848, saving weights
+Epoch 8/20
+  76/1000 [=>............................] - ETA: 3397s - rpn_cls: 0.0446 - rpn_regr: 0.0192 - detector_cls: 0.0602 - detector_regr: 0.0019Exception: 'a' cannot be empty unless no samples ar
+e taken
+  86/1000 [=>............................] - ETA: 3404s - rpn_cls: 0.0397 - rpn_regr: 0.0187 - detector_cls: 0.0581 - detector_regr: 0.0018Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 131/1000 [==>...........................] - ETA: 3218s - rpn_cls: 0.0481 - rpn_regr: 0.0198 - detector_cls: 0.0519 - detector_regr: 0.0016Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 173/1000 [====>.........................] - ETA: 3066s - rpn_cls: 0.0506 - rpn_regr: 0.0176 - detector_cls: 0.0452 - detector_regr: 0.0014Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 196/1000 [====>.........................] - ETA: 2984s - rpn_cls: 0.0586 - rpn_regr: 0.0168 - detector_cls: 0.0465 - detector_regr: 0.0014Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 287/1000 [=======>......................] - ETA: 2652s - rpn_cls: 0.0623 - rpn_regr: 0.0178 - detector_cls: 0.0408 - detector_regr: 0.0019Average number of overlapping bounding boxes from R
+PN = 3.0 for 1000 previous iterations
+ 417/1000 [===========>..................] - ETA: 2151s - rpn_cls: 0.0673 - rpn_regr: 0.0185 - detector_cls: 0.0448 - detector_regr: 0.0025Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 474/1000 [=============>................] - ETA: 1942s - rpn_cls: 0.0691 - rpn_regr: 0.0184 - detector_cls: 0.0443 - detector_regr: 0.0026Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 492/1000 [=============>................] - ETA: 1878s - rpn_cls: 0.0669 - rpn_regr: 0.0188 - detector_cls: 0.0445 - detector_regr: 0.0027Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 566/1000 [===============>..............] - ETA: 1603s - rpn_cls: 0.0736 - rpn_regr: 0.0188 - detector_cls: 0.0451 - detector_regr: 0.0027Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 634/1000 [==================>...........] - ETA: 1355s - rpn_cls: 0.0748 - rpn_regr: 0.0186 - detector_cls: 0.0469 - detector_regr: 0.0028Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 641/1000 [==================>...........] - ETA: 1331s - rpn_cls: 0.0749 - rpn_regr: 0.0187 - detector_cls: 0.0468 - detector_regr: 0.0028Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 739/1000 [=====================>........] - ETA: 966s - rpn_cls: 0.0716 - rpn_regr: 0.0188 - detector_cls: 0.0478 - detector_regr: 0.0035Exception: 'a' cannot be empty unless no samples are
+ taken
+ 769/1000 [======================>.......] - ETA: 856s - rpn_cls: 0.0720 - rpn_regr: 0.0190 - detector_cls: 0.0479 - detector_regr: 0.0034Exception: 'a' cannot be empty unless no samples are
+ taken
+ 885/1000 [=========================>....] - ETA: 425s - rpn_cls: 0.0712 - rpn_regr: 0.0185 - detector_cls: 0.0456 - detector_regr: 0.0043Exception: 'a' cannot be empty unless no samples are
+ taken
+ 922/1000 [==========================>...] - ETA: 288s - rpn_cls: 0.0703 - rpn_regr: 0.0183 - detector_cls: 0.0450 - detector_regr: 0.0041Exception: 'a' cannot be empty unless no samples are
+ taken
+1000/1000 [==============================] - 3705s - rpn_cls: 0.0696 - rpn_regr: 0.0180 - detector_cls: 0.0448 - detector_regr: 0.0041
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 3.0482758620689654
+Classifier accuracy for bounding boxes from RPN: 0.9865
+Loss RPN classifier: 0.06955194597253046
+Loss RPN regression: 0.018030604235362263
+Loss Detector classifier: 0.04476859683264047
+Loss Detector regression: 0.004078191203215965
+Elapsed time: 3706.2889873981476
+Total loss decreased from 0.15312873496531848 to 0.13642933824374914, saving weights
+Epoch 9/20
+  17/1000 [..............................] - ETA: 3693s - rpn_cls: 0.0945 - rpn_regr: 0.0108 - detector_cls: 0.0219 - detector_regr: 0.0021Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 276/1000 [=======>......................] - ETA: 2658s - rpn_cls: 0.0527 - rpn_regr: 0.0117 - detector_cls: 0.0229 - detector_regr: 0.0033Average number of overlapping bounding boxes from R
+PN = 3.062 for 1000 previous iterations
+ 335/1000 [=========>....................] - ETA: 2429s - rpn_cls: 0.0533 - rpn_regr: 0.0119 - detector_cls: 0.0222 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 502/1000 [==============>...............] - ETA: 1874s - rpn_cls: 0.0607 - rpn_regr: 0.0123 - detector_cls: 0.0336 - detector_regr: 0.0030Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 625/1000 [=================>............] - ETA: 1442s - rpn_cls: 0.0588 - rpn_regr: 0.0132 - detector_cls: 0.0389 - detector_regr: 0.0035Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 744/1000 [=====================>........] - ETA: 994s - rpn_cls: 0.0556 - rpn_regr: 0.0129 - detector_cls: 0.0383 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples are
+ taken
+ 746/1000 [=====================>........] - ETA: 988s - rpn_cls: 0.0574 - rpn_regr: 0.0129 - detector_cls: 0.0382 - detector_regr: 0.0033Exception: 'a' cannot be empty unless no samples are
+ taken
+ 803/1000 [=======================>......] - ETA: 766s - rpn_cls: 0.0571 - rpn_regr: 0.0129 - detector_cls: 0.0384 - detector_regr: 0.0031Exception: 'a' cannot be empty unless no samples are
+ taken
+ 831/1000 [=======================>......] - ETA: 657s - rpn_cls: 0.0553 - rpn_regr: 0.0130 - detector_cls: 0.0381 - detector_regr: 0.0031Exception: 'a' cannot be empty unless no samples are
+ taken
+1000/1000 [==============================] - 3852s - rpn_cls: 0.0567 - rpn_regr: 0.0130 - detector_cls: 0.0424 - detector_regr: 0.0029
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 3.0476190476190474
+Classifier accuracy for bounding boxes from RPN: 0.98875
+Loss RPN classifier: 0.05673505966523067
+Loss RPN regression: 0.012989599311491474
+Loss Detector classifier: 0.042387786645233974
+Loss Detector regression: 0.00285977860849016
+Elapsed time: 3853.3784005641937
+Total loss decreased from 0.13642933824374914 to 0.11497222423044627, saving weights
+Epoch 10/20
+  60/1000 [>.............................] - ETA: 3462s - rpn_cls: 0.0728 - rpn_regr: 0.0144 - detector_cls: 0.0368 - detector_regr: 0.0028Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 268/1000 [=======>......................] - ETA: 2684s - rpn_cls: 0.0602 - rpn_regr: 0.0126 - detector_cls: 0.0428 - detector_regr: 0.0016Average number of overlapping bounding boxes from R
+PN = 3.003 for 1000 previous iterations
+ 329/1000 [========>.....................] - ETA: 2452s - rpn_cls: 0.0574 - rpn_regr: 0.0122 - detector_cls: 0.0409 - detector_regr: 0.0014Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 389/1000 [==========>...................] - ETA: 2247s - rpn_cls: 0.0553 - rpn_regr: 0.0117 - detector_cls: 0.0409 - detector_regr: 0.0014Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 440/1000 [============>.................] - ETA: 2059s - rpn_cls: 0.0548 - rpn_regr: 0.0112 - detector_cls: 0.0386 - detector_regr: 0.0013Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 464/1000 [============>.................] - ETA: 1975s - rpn_cls: 0.0554 - rpn_regr: 0.0113 - detector_cls: 0.0381 - detector_regr: 0.0013Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 496/1000 [=============>................] - ETA: 1859s - rpn_cls: 0.0556 - rpn_regr: 0.0112 - detector_cls: 0.0364 - detector_regr: 0.0013Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 612/1000 [=================>............] - ETA: 1434s - rpn_cls: 0.0545 - rpn_regr: 0.0108 - detector_cls: 0.0341 - detector_regr: 0.0013Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 655/1000 [==================>...........] - ETA: 1274s - rpn_cls: 0.0535 - rpn_regr: 0.0106 - detector_cls: 0.0343 - detector_regr: 0.0014Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 726/1000 [====================>.........] - ETA: 1011s - rpn_cls: 0.0541 - rpn_regr: 0.0103 - detector_cls: 0.0335 - detector_regr: 0.0015Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 925/1000 [==========================>...] - ETA: 276s - rpn_cls: 0.0516 - rpn_regr: 0.0095 - detector_cls: 0.0321 - detector_regr: 0.0022Exception: 'a' cannot be empty unless no samples are
+ taken
+ 932/1000 [==========================>...] - ETA: 251s - rpn_cls: 0.0520 - rpn_regr: 0.0094 - detector_cls: 0.0320 - detector_regr: 0.0022Exception: 'a' cannot be empty unless no samples are
+ taken
+ 943/1000 [===========================>..] - ETA: 210s - rpn_cls: 0.0523 - rpn_regr: 0.0094 - detector_cls: 0.0318 - detector_regr: 0.0022Exception: 'a' cannot be empty unless no samples are
+ taken
+1000/1000 [==============================] - 3698s - rpn_cls: 0.0504 - rpn_regr: 0.0091 - detector_cls: 0.0312 - detector_regr: 0.0024
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 3.0533596837944663
+Classifier accuracy for bounding boxes from RPN: 0.99196875
+Loss RPN classifier: 0.05035396431342292
+Loss RPN regression: 0.009149867207743228
+Loss Detector classifier: 0.031243410183458963
+Loss Detector regression: 0.002396650916597082
+Elapsed time: 3698.9235663414
+Total loss decreased from 0.11497222423044627 to 0.09314389262122219, saving weights
+Epoch 11/20
+ 155/1000 [===>..........................] - ETA: 3084s - rpn_cls: 0.0939 - rpn_regr: 0.0084 - detector_cls: 0.0302 - detector_regr: 0.0118Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 230/1000 [=====>........................] - ETA: 2818s - rpn_cls: 0.0674 - rpn_regr: 0.0099 - detector_cls: 0.0361 - detector_regr: 0.0085Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 255/1000 [======>.......................] - ETA: 2739s - rpn_cls: 0.0705 - rpn_regr: 0.0099 - detector_cls: 0.0345 - detector_regr: 0.0085Average number of overlapping bounding boxes from R
+PN = 3.058 for 1000 previous iterations
+ 309/1000 [========>.....................] - ETA: 2531s - rpn_cls: 0.0680 - rpn_regr: 0.0100 - detector_cls: 0.0350 - detector_regr: 0.0073Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 417/1000 [===========>..................] - ETA: 2140s - rpn_cls: 0.0634 - rpn_regr: 0.0098 - detector_cls: 0.0341 - detector_regr: 0.0057Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 507/1000 [==============>...............] - ETA: 1846s - rpn_cls: 0.0633 - rpn_regr: 0.0100 - detector_cls: 0.0322 - detector_regr: 0.0051Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 671/1000 [===================>..........] - ETA: 1265s - rpn_cls: 0.0612 - rpn_regr: 0.0097 - detector_cls: 0.0316 - detector_regr: 0.0041Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 721/1000 [====================>.........] - ETA: 1096s - rpn_cls: 0.0603 - rpn_regr: 0.0096 - detector_cls: 0.0323 - detector_regr: 0.0039Exception: 'a' cannot be empty unless no samples ar
+e taken
+ 886/1000 [=========================>....] - ETA: 452s - rpn_cls: 0.0606 - rpn_regr: 0.0112 - detector_cls: 0.0484 - detector_regr: 0.0042Exception: 'a' cannot be empty unless no samples are
+ taken
+1000/1000 [==============================] - 3944s - rpn_cls: 0.0644 - rpn_regr: 0.0117 - detector_cls: 0.0495 - detector_regr: 0.0041
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 2.9910714285714284
+Classifier accuracy for bounding boxes from RPN: 0.98475
+Loss RPN classifier: 0.06437060071388134
+Loss RPN regression: 0.011665596027625725
+Loss Detector classifier: 0.049533163923174355
+Loss Detector regression: 0.004141588076375683
+Elapsed time: 3944.9766397476196

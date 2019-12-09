@@ -16,7 +16,7 @@ from keras_frcnn import losses as losses
 import keras_frcnn.roi_helpers as roi_helpers
 from keras.utils import generic_utils
 
-sys.setrecursionlimit(40000)
+sys.setrecursionlimit(4000)
 
 parser = OptionParser()
 
@@ -29,7 +29,7 @@ parser.add_option("--hf", dest="horizontal_flips", help="Augment with horizontal
 parser.add_option("--vf", dest="vertical_flips", help="Augment with vertical flips in training. (Default=false).", action="store_true", default=False)
 parser.add_option("--rot", "--rot_90", dest="rot_90", help="Augment with 90 degree rotations in training. (Default=false).",
 				  action="store_true", default=False)
-parser.add_option("--num_epochs", type="int", dest="num_epochs", help="Number of epochs.", default=2000)
+parser.add_option("--num_epochs", type="int", dest="num_epochs", help="Number of epochs.", default=10)
 parser.add_option("--config_filename", dest="config_filename", help=
 				"Location to store all the metadata related to the training (to be used when testing).",
 				default="config.pickle")
@@ -145,7 +145,7 @@ optimizer = Adam(lr=1e-5)
 optimizer_classifier = Adam(lr=1e-5)
 model_rpn.compile(optimizer=optimizer, loss=[losses.rpn_loss_cls(num_anchors), losses.rpn_loss_regr(num_anchors)])
 model_classifier.compile(optimizer=optimizer_classifier, loss=[losses.class_loss_cls, losses.class_loss_regr(len(classes_count)-1)], metrics={'dense_class_{}'.format(len(classes_count)): 'accuracy'})
-model_all.compile(optimizer='sgd', loss='mae')
+model_all.compile(optimizer='adam', loss='mae')
 
 epoch_length = 1000
 num_epochs = int(options.num_epochs)
@@ -167,10 +167,10 @@ for epoch_num in range(num_epochs):
 
 	progbar = generic_utils.Progbar(epoch_length)
 	print('Epoch {}/{}'.format(epoch_num + 1, num_epochs))
-
+	
 	while True:
 		try:
-
+			
 			if len(rpn_accuracy_rpn_monitor) == epoch_length and C.verbose:
 				mean_overlapping_bboxes = float(sum(rpn_accuracy_rpn_monitor))/len(rpn_accuracy_rpn_monitor)
 				rpn_accuracy_rpn_monitor = []
@@ -183,19 +183,20 @@ for epoch_num in range(num_epochs):
 			loss_rpn = model_rpn.train_on_batch(X, Y)
 
 			P_rpn = model_rpn.predict_on_batch(X)
-
-			R = roi_helpers.rpn_to_roi(P_rpn[0], P_rpn[1], C, K.image_dim_ordering(), use_regr=True, overlap_thresh=0.7, max_boxes=300)
+			
+			R = roi_helpers.rpn_to_roi(P_rpn[0], P_rpn[1], C, K.image_dim_ordering(), use_regr=True, overlap_thresh=0.7, max_boxes=100)
 			# note: calc_iou converts from (x1,y1,x2,y2) to (x,y,w,h) format
 			X2, Y1, Y2, IouS = roi_helpers.calc_iou(R, img_data, C, class_mapping)
-
+			
 			if X2 is None:
 				rpn_accuracy_rpn_monitor.append(0)
 				rpn_accuracy_for_epoch.append(0)
+				
 				continue
-
+			
 			neg_samples = np.where(Y1[0, :, -1] == 1)
 			pos_samples = np.where(Y1[0, :, -1] == 0)
-
+			
 			if len(neg_samples) > 0:
 				neg_samples = neg_samples[0]
 			else:
@@ -208,7 +209,7 @@ for epoch_num in range(num_epochs):
 			
 			rpn_accuracy_rpn_monitor.append(len(pos_samples))
 			rpn_accuracy_for_epoch.append((len(pos_samples)))
-
+			
 			if C.num_rois > 1:
 				if len(pos_samples) < C.num_rois//2:
 					selected_pos_samples = pos_samples.tolist()
@@ -228,7 +229,7 @@ for epoch_num in range(num_epochs):
 					sel_samples = random.choice(neg_samples)
 				else:
 					sel_samples = random.choice(pos_samples)
-
+			
 			loss_class = model_classifier.train_on_batch([X, X2[:, sel_samples, :]], [Y1[:, sel_samples, :], Y2[:, sel_samples, :]])
 
 			losses[iter_num, 0] = loss_rpn[1]
@@ -237,7 +238,7 @@ for epoch_num in range(num_epochs):
 			losses[iter_num, 2] = loss_class[1]
 			losses[iter_num, 3] = loss_class[2]
 			losses[iter_num, 4] = loss_class[3]
-
+			
 			progbar.update(iter_num+1, [('rpn_cls', losses[iter_num, 0]), ('rpn_regr', losses[iter_num, 1]),
 									  ('detector_cls', losses[iter_num, 2]), ('detector_regr', losses[iter_num, 3])])
 

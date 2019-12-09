@@ -1,0 +1,1 @@
+using larger picture.  14 training epochs

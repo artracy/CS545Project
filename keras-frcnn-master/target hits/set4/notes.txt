@@ -1,0 +1,3 @@
+large file with new self.anchor_box_scales = [4, 8, 16, 32]
+
+10 epoch

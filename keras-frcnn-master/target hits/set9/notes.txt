@@ -1,0 +1,8 @@
+self.anchor_box_scales = [4, 8, 16, 32]
+	self.rpn_stride = 8
+			self.rpn_min_overlap = 0.2
+		self.rpn_max_overlap = 0.8
+		
+		
+train
+R = roi_helpers.rpn_to_roi(P_rpn[0], P_rpn[1], C, K.image_dim_ordering(), use_regr=True, overlap_thresh=0.8, max_boxes=250)

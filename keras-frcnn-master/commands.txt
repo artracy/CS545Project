@@ -1,0 +1,19 @@
+
+cd School\project\CS545Project\keras-frcnn-master
+
+python train_frcnn.py -o simple --output_weight_path model_frcnn_hit.hdf5 --num_epochs 10 --network vgg --path large_hits.txt
+
+python test_frcnn.py --path test
+
+
+python train_frcnn.py -o simple --output_weight_path model_frcnn_hit.hdf5 --num_epochs 10 --path large_hits.txt
+
+python train_frcnn.py -o simple --config_filename config_hit.pickle --input_weight_path model_frcnn_hit.hdf5 --output_weight_path model_frcnn_hit.hdf5 --num_epochs 20 --path annotate_hits.txt
+
+python test_frcnn.py --config_filename config_hit.pickle --path test
+
+0.106806
+
+python train_frcnn.py -o simple --config_filename config_target.pickle --input_weight_path model_frcnn_target.hdf5 --output_weight_path model_frcnn_target.hdf5 --num_epochs 20 --path annotate_target.txt
+
+python test_frcnn.py --config_filename config_target.pickle --path test

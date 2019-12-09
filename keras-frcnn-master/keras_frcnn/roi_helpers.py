@@ -220,7 +220,7 @@ def non_max_suppression_fast(boxes, probs, overlap_thresh=0.9, max_boxes=300):
 	return boxes, probs
 
 import time
-def rpn_to_roi(rpn_layer, regr_layer, C, dim_ordering, use_regr=True, max_boxes=300,overlap_thresh=0.9):
+def rpn_to_roi(rpn_layer, regr_layer, C, dim_ordering, use_regr=True, max_boxes=100,overlap_thresh=0.9):
 
 	regr_layer = regr_layer / C.std_scaling
 
