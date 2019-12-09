@@ -6,6 +6,7 @@ import time
 import numpy as np
 from optparse import OptionParser
 import pickle
+import os
 
 from keras import backend as K
 from keras.optimizers import Adam, SGD, RMSprop
@@ -99,9 +100,15 @@ print('Num classes (including bg) = {}'.format(len(classes_count)))
 
 config_output_filename = options.config_filename
 
-with open(config_output_filename, 'wb') as config_f:
-	pickle.dump(C,config_f)
-	print('Config has been written to {}, and can be loaded when testing to ensure correct results'.format(config_output_filename))
+if os.path.exists(config_output_filename):
+
+	with open(config_output_filename, 'rb') as f_in:
+		C = pickle.load(f_in)
+		print('Config read from {}, training will continue'.format(config_output_filename))
+else:
+	with open(config_output_filename, 'wb') as config_f:
+		pickle.dump(C,config_f)
+		print('Config has been written to {}, and can be loaded when testing to ensure correct results'.format(config_output_filename))
 
 random.shuffle(all_imgs)
 
@@ -129,6 +136,8 @@ roi_input = Input(shape=(None, 4))
 shared_layers = nn.nn_base(img_input, trainable=True)
 
 # define the RPN, built on the base layers
+print('scales {}'.format(C.anchor_box_scales))
+
 num_anchors = len(C.anchor_box_scales) * len(C.anchor_box_ratios)
 rpn = nn.rpn(shared_layers, num_anchors)
 
