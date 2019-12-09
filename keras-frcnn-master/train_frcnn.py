@@ -35,6 +35,7 @@ parser.add_option("--config_filename", dest="config_filename", help=
 				default="config.pickle")
 parser.add_option("--output_weight_path", dest="output_weight_path", help="Output path for weights.", default='./model_frcnn.hdf5')
 parser.add_option("--input_weight_path", dest="input_weight_path", help="Input path for weights. If not specified, will try to load default weights provided by keras.")
+parser.add_option("--anchor_set", dest="anchor_set", help="set the anchor set for the training 'hit' or 'target'.")
 
 (options, args) = parser.parse_args()
 
@@ -68,6 +69,12 @@ else:
 	print('Not a valid model')
 	raise ValueError
 
+	
+if options.anchor_set == 'hit':
+	C.anchor_box_scales = [4, 8, 16, 32]
+elif options.anchor_set == 'target':
+	C.anchor_box_scales = [128, 256, 512]
+	
 
 # check if weight path was passed via command line
 if options.input_weight_path:
