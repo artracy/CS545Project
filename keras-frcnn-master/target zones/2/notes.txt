@@ -1,0 +1,12 @@
+Epoch 20/20
+Average number of overlapping bounding boxes from RPN = 27.272 for 1000 previous iterations
+1000/1000 [==============================] - 1449s - rpn_cls: 0.0026 - rpn_regr: 1.7666e-04 - detector_cls: 0.0668 - detector_regr: 0.0105
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 27.151
+Classifier accuracy for bounding boxes from RPN: 0.97721875
+Loss RPN classifier: 0.002642175627703338
+Loss RPN regression: 0.00017665670748465346
+Loss Detector classifier: 0.06682398158241995
+Loss Detector regression: 0.010463402920751833
+Elapsed time: 1449.551909685135
+Total loss decreased from 0.0814420477714956 to 0.08010621683835978, saving weights
+Training complete, exiting.

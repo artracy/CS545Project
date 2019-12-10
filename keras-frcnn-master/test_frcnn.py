@@ -248,4 +248,4 @@ for idx, img_name in enumerate(sorted(os.listdir(img_path))):
 	print(all_dets)
 	#cv2.imshow('img', img)
 	#cv2.waitKey(0)
-	cv2.imwrite('{}.png'.format(idx),img)
+	cv2.imwrite('result\{}.png'.format(idx),img)
